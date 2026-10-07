@@ -1,0 +1,11 @@
+[project]
+name = "lab1-backprop"
+version = "1.0.0"
+description = "ЛР1: ручний backprop у NumPy, перевірка через PyTorch autograd і чисельні градієнти"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = [
+    "numpy==2.4.4",
+    "torch==2.14.1",
+    "scikit-learn==1.8.0",
+]

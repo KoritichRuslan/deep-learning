@@ -1,0 +1,13 @@
+[project]
+name = "lab2-threshold"
+version = "1.0.0"
+description = "ЛР2: поріг рішення під асиметричну ціну помилок (C = 10*FN + FP)"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = [
+    "numpy==2.4.4",
+    "pandas==3.0.2",
+    "scikit-learn==1.8.0",
+    "torch==2.14.1",
+    "matplotlib==3.10.8",
+]

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+seg_train/
+seg_test/
+seg_pred/
+runs/*/weights.pt
+*.pth
+_listing.txt
+_subset.tar
+split.csv.new
